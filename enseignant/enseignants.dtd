@@ -1,0 +1,6 @@
+<!ELEMENT enseignants (enseignant*) >
+<!ELEMENT enseignant ( nom, prenom, age?, prenom?) >
+<!ELEMENT nom (#PCDATA) >
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ATTLIST enseignant dep CDATA #REQUIRED annee CDATA #IMPLIED>

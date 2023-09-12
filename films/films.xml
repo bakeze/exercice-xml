@@ -1,0 +1,139 @@
+<!DOCTYPE films SYSTEM "films.dtd">
+<films>
+    <film annee="2005" visa="114089" nationalite="Américain">
+        <titre> King kong </titre>
+        <exploitation> 
+            <datesortie>mercredi décembre 2005</datesortie>
+            <nbentree>2838759</nbentree>
+            <nbsalle>547</nbsalle>
+            <listepays>
+                <pays>brasil</pays>
+                <pays>Türkiye</pays>
+                <pays>Deutschland</pays>
+                <pays>España</pays>
+            </listepays>
+        </exploitation>
+        <acteurs> 
+            <acteur>Peter Jackson</acteur>
+            <acteur>Naomi Watts</acteur>
+            <acteur>Jack Black</acteur>
+            <acteur>Adrien Brody</acteur>
+        </acteurs>
+        <realisateur> Peter Jackson </realisateur>
+        <genres>
+            <genre>
+                aventures
+            </genre>
+        </genres>
+        <duree>
+            <minutes>300</minutes>
+        </duree>
+        <scénario> <![CDATA[New York, 1933. Artiste de music-hall à la rue, Ann Darrow rencontre l'audacieux
+        explorateur/réalisateur Carl Denham. Ce dernier rêve de terminer son lm inachevé, mais nourrit
+        surtout la folle ambition d'être le premier à découvrir le secret de la mystérieuse Skull Island. Il va
+        entraîner Ann dans sa périlleuse aventure..]]></scénario>
+    </film>
+
+    <film annee="2005" visa="114089" nationalite="Américain">
+        <titre> L'Evangile selon Saint Matthieu </titre>
+        <exploitation> 
+            <datesortie>3 mars 1965</datesortie>
+            <nbentree>2838759</nbentree>
+            <nbsalle>547</nbsalle>
+            <listepays>
+                <pays>Brasil </pays>
+                <pays>Türkiye</pays>
+                <pays>Deutschland</pays>
+                <pays>España</pays>
+            </listepays>
+        </exploitation>
+        <acteurs> 
+            <acteur>Enrique Irazoqui</acteur>
+            <acteur>Margherita Caruso</acteur>
+            <acteur>Susanna Pasolini</acteur>
+            <acteur>Marcello Morante</acteur>
+        </acteurs>
+        <realisateur> Peter Jackson </realisateur>
+        <genres>
+            <genre>Drame</genre>
+            <genre>Historique</genre>
+            <genre>Biopic</genre>
+        </genres>
+        <duree>
+            <minutes>300</minutes>
+        </duree>
+        <scénario> <![CDATA[ Un ange vient annoncer à Joseph que sa femme Marie attend
+        le fils de Dieu : Jésus. Devenu jeune homme, son cousin Jean-Baptiste le fait Christ. Il se retire dans le désert durant quarante jours et quarante nuits puis s’en va prêcher la bonne parole entouré de ses disciples. Trahi par
+         lun dentre eux, Jésus meurt sur le Golgotha mais ressuscite trois jours plus tard ]]></scénario>
+    </film>
+
+
+    <film annee="2005" visa="114089" nationalite="Américain">
+        <titre> Jésus de Nazareth ? </titre>
+        <exploitation> 
+            <datesortie>mercredi décembre 2005</datesortie>
+            <nbentree>2838759</nbentree>
+            <nbsalle>547</nbsalle>
+            <listepays>
+                <pays>brasil</pays>
+                <pays>Türkiye</pays>
+                <pays>Deutschland</pays>
+                <pays>España</pays>
+            </listepays>
+        </exploitation>
+        <acteurs> 
+            <acteur>Peter Jackson</acteur>
+            <acteur>Naomi Watts</acteur>
+            <acteur>Jack Black</acteur>
+            <acteur>Adrien Brody</acteur>
+        </acteurs>
+        <realisateur> Peter Jackson </realisateur>
+        <genres>
+            <genre>Drame</genre>
+            <genre>Historique</genre>
+            <genre>Biopic</genre>
+        </genres>
+        <duree>
+            <minutes>300</minutes>
+        </duree>
+        <scénario> <![CDATA[Un ange vient annoncer à Joseph que sa femme Marie attend
+        le fils de Dieu : Jésus. Devenu jeune homme, son cousin Jean-Baptiste le fait Christ. Il se retire dans le désert durant quarante jours et quarante nuits puis s’en va prêcher la bonne parole entouré de ses disciples. Trahi par
+         lun dentre eux, Jésus meurt sur le Golgotha mais ressuscite trois jours plus tard...]]></scénario>
+    </film>
+
+    
+    <film annee="2005" visa="114089" nationalite="Américain">
+        <titre> Paul, Apôtre du Christ BONUS VO "Fidèle à l'Ecriture" </titre>
+        <exploitation> 
+            <datesortie>mercredi décembre 2005</datesortie>
+            <nbentree>2838759</nbentree>
+            <nbsalle>547</nbsalle>
+            <listepays>
+                <pays>brasil</pays>
+                <pays>Türkiye</pays>
+                <pays>Deutschland</pays>
+                <pays>España</pays>
+            </listepays>
+        </exploitation>
+        <acteurs> 
+            <acteur>Peter Jackson</acteur>
+            <acteur>Naomi Watts</acteur>
+            <acteur>Jack Black</acteur>
+            <acteur>Adrien Brody</acteur>
+        </acteurs>
+        <realisateur> Peter Jackson </realisateur>
+        <genres>
+            <genre>Drame</genre>
+            <genre>Historique</genre>
+            <genre>Biopic</genre>
+        </genres>
+        <duree>
+            <minutes>300</minutes>
+        </duree>
+        <scénario> <![CDATA[Un ange vient annoncer à Joseph que sa femme Marie attend
+        le fils de Dieu : Jésus. Devenu jeune homme, son cousin Jean-Baptiste le fait Christ. Il se retire dans le désert durant quarante jours et quarante nuits puis s’en va prêcher la bonne parole entouré de ses disciples. Trahi par
+         lun dentre eux, Jésus meurt sur le Golgotha mais ressuscite trois jours plus tard...]]></scénario>
+    </film>
+
+
+</films>

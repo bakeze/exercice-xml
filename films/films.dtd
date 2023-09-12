@@ -1,0 +1,20 @@
+<!ELEMENT films (film*) >
+<!ELEMENT film ( titre, exploitation, acteurs, realisateur, genres, duree, scénario )>
+<!ELEMENT titre (#PCDATA) >
+<!ELEMENT exploitation (datesortie, nbentree, nbsalle, listepays)>
+<!ELEMENT datesortie (#PCDATA)>
+<!ELEMENT nbentree (#PCDATA)>
+<!ELEMENT nbsalle (#PCDATA)>
+<!ELEMENT acteurs (acteur*)>
+<!ELEMENT acteur (#PCDATA)>
+<!ELEMENT realisateur (#PCDATA) >
+<!ELEMENT genres (genre*) >
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT duree (minutes) >
+<!ELEMENT minutes (#PCDATA)>
+<!ELEMENT scénario (#PCDATA) >
+<!ELEMENT listepays (pays,pays,pays,pays) >
+<!ELEMENT pays (#PCDATA) >
+<!ATTLIST film annee CDATA #REQUIRED 
+          visa CDATA #REQUIRED
+          nationalite CDATA #REQUIRED >

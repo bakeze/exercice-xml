@@ -1,0 +1,14 @@
+<!DOCTYPE enseignants SYSTEM "enseignants.dtd">
+<enseignants>
+    <enseignant dep="&isis;" annee="2023">
+        <nom> Singer </nom>
+        <prenom> Nicolas </prenom>
+        <prenom> Marc </prenom>
+    </enseignant>
+    <enseignant dep="&isis;" annee="2020">
+        <nom> Trouilhet </nom>
+        <prenom> Sylvie </prenom>
+        <age> 38 </age>
+        <prenom> Ezechiel </prenom>
+    </enseignant>
+</enseignants>
