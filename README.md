@@ -85,5 +85,6 @@ explorateur/réalisateur Carl Denham. Ce dernier rêve de terminer son lm inache
 6. Complétez votre cinématographie pour avoir 4 films au total.
 
 
-> Auteur : M. Nicolas Singer 
+> Auteur : M. Nicolas Singer
+
 > Reprise : Bakayoko Marc Ezechiel 
